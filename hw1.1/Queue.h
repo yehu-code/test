@@ -19,6 +19,6 @@ int dequeue(Queue* q); // return element in top of queue, or -1 if empty
 bool isEmpty(Queue* s);
 bool isFull(Queue* s);
 
-int len(Queue* q);// Ineed to delete#######################################################################3
+int len(Queue* q);// Ineed to delete#######################################################################
 
 #endif /* QUEUE_H */
